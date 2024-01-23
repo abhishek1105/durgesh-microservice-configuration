@@ -4,7 +4,7 @@ spring:
   main:
     banner-mode: 'off'
   application:
-    name: "USER-SERVICE"
+    name: "USER-USER-SERVICE"
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
